@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700814936193",
+    "firebase_url": "https://walletiq-2b18c.firebaseio.com",
+    "project_id": "walletiq-2b18c",
+    "storage_bucket": "walletiq-2b18c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700814936193:android:bac85ec3587f4dd5142580",
+        "android_client_info": {
+          "package_name": "com.example.walletiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700814936193-d344bc6cq093mmo4go9mpbl02ch2fc6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJMJscSOYrHeXTjaDmhv1mBa73oppDo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700814936193-d344bc6cq093mmo4go9mpbl02ch2fc6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
